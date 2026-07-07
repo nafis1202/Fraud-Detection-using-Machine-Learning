@@ -1,6 +1,5 @@
 # Fraud Detection System
 
-## About
 
 This project uses machine learning to detect fraudulent financial transactions. I trained the model on a Kaggle dataset containing over 6.3 million transactions and achieved 94% accuracy.
 
